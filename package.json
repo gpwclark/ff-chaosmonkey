@@ -1,0 +1,19 @@
+{
+  "name": "chaosmonkey",
+  "version": "1.0.0",
+  "description": "chatbot",
+  "main": "main.js",
+  "dependencies": {
+    "espn-fantasy-football-api": "^0.9.1",
+    "source-map-support": "^0.5.16",
+    "slack": "^6.1.0",
+    "axios": "^0.19.0",
+	"lodash": "^4.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gpwclark",
+  "license": "MIT"
+}
