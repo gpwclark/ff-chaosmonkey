@@ -4,11 +4,12 @@
   "description": "chatbot",
   "main": "main.js",
   "dependencies": {
-    "espn-fantasy-football-api": "^0.9.1",
-    "source-map-support": "^0.5.16",
     "slack": "^6.1.0",
     "axios": "^0.19.0",
-	"lodash": "^4.6.1"
+    "espn-fantasy-football-api": "^0.15.0",
+    "lodash": "^4.17.20",
+    "source-map-support": "^0.5.19",
+    "ws": "^7.3.1"
   },
   "devDependencies": {},
   "scripts": {
