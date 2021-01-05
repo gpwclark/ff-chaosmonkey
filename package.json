@@ -5,7 +5,7 @@
   "main": "main.js",
   "dependencies": {
     "slack": "^6.1.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "espn-fantasy-football-api": "^0.15.0",
     "lodash": "^4.17.20",
     "source-map-support": "^0.5.19",
